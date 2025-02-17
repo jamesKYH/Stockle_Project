@@ -26,7 +26,8 @@ def get_valid_stock_data(ticker):
     return None, ticker
 
 st.set_page_config(page_title="주식 종합 검색", layout="centered")
-st.title("Stockle")
+# 기존 st.title 대신 HTML 마크업을 사용하여 제목을 가운데 정렬
+st.markdown("<h1 style='text-align: center;'>📈 Stockle</h1>", unsafe_allow_html=True)
 
 st.markdown("""
         <style>
