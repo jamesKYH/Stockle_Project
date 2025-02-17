@@ -1,5 +1,5 @@
 # Stockle_Project 
-(Stockkle = Stock + Google 구글의 자유도 높은 검색을 주식 검색에) 
+(Stockle = Stock + Google 구글의 자유도 높은 검색을 주식 검색에..) 
 
 ## 🎥시뮬레이션 
 ![화면 기록 2025-02-17 오후 4 31 29](https://github.com/user-attachments/assets/e90d0c05-4de1-41ca-9ee2-73c5c0627259)
