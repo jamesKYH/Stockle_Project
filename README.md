@@ -1,5 +1,7 @@
 # Stockle_Project
 
+![화면 기록 2025-02-17 오후 4 31 29](https://github.com/user-attachments/assets/e90d0c05-4de1-41ca-9ee2-73c5c0627259)
+
 
 ## **🚀 프로젝트 개요**
 
